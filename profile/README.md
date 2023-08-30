@@ -3,12 +3,12 @@
 
 ### Active Development
 
-|                     Name | Description                                                                                      | Release                                                |
+|                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[machineShop][machineShop]** | git based CLI interface for managing configuration as code | **[machineShop-release]** |
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
-[machineShop-release]: https://github.com/stuttgart-things/machineShop/tag/0.1.33
+[machineShop-release]: https://github.com/stuttgart-things/machineShop/releases
 
 <!--
 
