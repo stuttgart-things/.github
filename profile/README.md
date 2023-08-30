@@ -5,10 +5,13 @@
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[machineShop][machineShop]** | git based CLI interface for managing configuration as code | **[machineShop-release]** |
+| **[machineShop][machineShop]** | git based CLI interface for managing configuration as code | **[machineShop-releases]** |
+| **[machineShop-operator][machineShop-operator]** | manage the lifecycle of terraform resources w/ custom resources on k8s | **[machineShop-operator-releases]** |
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
-[machineShop-release]: https://github.com/stuttgart-things/machineShop/releases
+[machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
+[machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
+[machineShop-operator-releases]: https://console.cloud.google.com/gcr/images/stuttgart-things/eu/machine-shop-operator
 
 <!--
 
