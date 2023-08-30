@@ -2,7 +2,7 @@
  
 <div align="center">
   <p>
-    <img src="sthings-city.png#gh-light-mode-only" alt="sthings" width="450" />
+    <img src="sthings-city.png" alt="sthings" width="450" />
   </p>
   <p>
     <strong>[sˈθɪŋz]</strong>- using modularity to speed up parallel builds
