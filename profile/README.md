@@ -22,7 +22,7 @@
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1 or 2 on linux based systems | **[deploy-configure-rke-releases** |
+| **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1 or 2 on linux based systems | **[deploy-configure-rke-releases]** |
 
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
