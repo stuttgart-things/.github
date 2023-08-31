@@ -11,15 +11,28 @@
 
 ### Active Development
 
+#### #GOLANG
+
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[machineShop][machineShop]** | git based CLI interface for managing configuration as code | **[machineShop-releases]** |
 | **[machineShop-operator][machineShop-operator]** | manage the lifecycle of terraform resources w/ custom resources on k8s | **[machineShop-operator-releases]** |
 
+#### #ANSIBLE
+
+|                     Name | Description                                                                                      | Releases                                               |
+| -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1 or 2 on linux based systems | **[deploy-configure-rke-releases** |
+
+
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
 [machineShop-operator-releases]: https://console.cloud.google.com/gcr/images/stuttgart-things/eu/machine-shop-operator
+[deploy-configure-rke]: https://github.com/stuttgart-things/deploy-configure-rke
+[deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
+
+
 
 <!--
 
