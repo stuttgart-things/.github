@@ -20,6 +20,7 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[machineShop][machineShop]** | git based CLI interface for managing configuration as code | **[machineShop-releases]** |
 | **[machineShop-operator][machineShop-operator]** | manage the lifecycle of terraform resources w/ custom resources on k8s | **[machineShop-operator-releases]** |
+| **[stageTime-server][stageTime-server]** | gRPC Server for validating & producing revisionRuns (a collection of tekton pipelineRuns/stages) | **[stageTime-server-releases]** |
 
 ##### /MODULES
 
@@ -42,7 +43,8 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 [deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
 [sthingsBase]: https://github.com/stuttgart-things/sthingsBase
 [sthingsBase-releases]: https://github.com/stuttgart-things/sthingsBase/tags
-
+[stageTime-server]: https://github.com/stuttgart-things/stageTime-server
+[stageTime-server-releases]: https://github.com/stuttgart-things/stageTime-server/releases
 
 
 <!--
