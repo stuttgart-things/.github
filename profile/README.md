@@ -26,13 +26,13 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[sthingsBase][sthingsBase]** | module which provides basic golang functions & building blocks | **[sthingsBase-releases]** |
+| **[sthingsBase][sthingsBase]** | module providing basic golang functions | **[sthingsBase-releases]** |
 
 #### #ANSIBLE
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1 or 2 on linux based systems | **[deploy-configure-rke-releases]** |
+| **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1/2 on linux based systems | **[deploy-configure-rke-releases]** |
 
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
