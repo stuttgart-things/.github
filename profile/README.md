@@ -13,10 +13,18 @@
 
 #### #GOLANG
 
+##### /PROJECTS
+
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[machineShop][machineShop]** | git based CLI interface for managing configuration as code | **[machineShop-releases]** |
 | **[machineShop-operator][machineShop-operator]** | manage the lifecycle of terraform resources w/ custom resources on k8s | **[machineShop-operator-releases]** |
+
+##### /MODULES
+
+|                     Name | Description                                                                                      | Releases                                               |
+| -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **[sthingsBase][sthingsBase]** | module which provides basic golang functions & building blocks | **[sthingsBase-releases]** |
 
 #### #ANSIBLE
 
@@ -31,6 +39,8 @@
 [machineShop-operator-releases]: https://console.cloud.google.com/gcr/images/stuttgart-things/eu/machine-shop-operator
 [deploy-configure-rke]: https://github.com/stuttgart-things/deploy-configure-rke
 [deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
+[sthingsBase]: https://github.com/stuttgart-things/sthingsBase
+[sthingsBase-releases]: https://github.com/stuttgart-things/sthingsBase/tags
 
 
 
