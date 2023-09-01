@@ -1,5 +1,3 @@
-## stuttgart-things 🍿
- 
 <div align="center">
   <p>
     <img src="sthings-city.png" alt="sthings" width="450" />
@@ -8,6 +6,9 @@
     <strong>[sˈθɪŋz]</strong>- using modularity to speed up parallel builds
   </p>
 </div>
+
+## stuttgart-things 🍿
+just a group of engineers sharing their projects codes, configuration & tools (including odds and ends)
 
 ### Active Development
 
