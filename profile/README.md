@@ -12,9 +12,7 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 
 ### Active Development
 
-#### #GOLANG
-
-##### /PROJECTS
+#### /GOLANG-PROJECTS
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
@@ -23,13 +21,14 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 | **[stageTime-server][stageTime-server]** | gRPC Server for validating & producing revisionRuns (a collection of tekton pipelineRuns/stages) | **[stageTime-server-releases]** |
 | **[stageTime-creator][stageTime-creator]** | dynamic rendering and creation of k8s manifests/resources polled from redis streams/json| **[stageTime-creator-releases]** |
 
-##### /MODULES
+#### /GOLANG-MODULES
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[sthingsBase][sthingsBase]** | module providing basic golang functions | **[sthingsBase-releases]** |
+| **[sthingsCli][sthingsCli]** | module providing golang functions/building blocks for the use in command line interfaces | **[sthingsCli-releases]** |
 
-#### #ANSIBLE
+#### /ANSIBLE
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
@@ -44,6 +43,8 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 [deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
 [sthingsBase]: https://github.com/stuttgart-things/sthingsBase
 [sthingsBase-releases]: https://github.com/stuttgart-things/sthingsBase/tags
+[sthingsCli]: https://github.com/stuttgart-things/sthingsCli
+[sthingsCli-releases]: https://github.com/stuttgart-things/sthingsCli/tags
 [stageTime-server]: https://github.com/stuttgart-things/stageTime-server
 [stageTime-server-releases]: https://github.com/stuttgart-things/stageTime-server/releases
 [stageTime-creator]: https://github.com/stuttgart-things/stageTime-creator
