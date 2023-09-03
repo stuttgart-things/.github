@@ -33,14 +33,12 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1/2 on linux based systems | **[deploy-configure-rke-releases]** |
-
+| **[manage-filesystem][manage-filesystem]** | manage LVM and resize Linux FS - handle repartitioning with filesystem resizing support | **[manage-filesystem-releases]** |
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
 [machineShop-operator-releases]: https://console.cloud.google.com/gcr/images/stuttgart-things/eu/machine-shop-operator
-[deploy-configure-rke]: https://github.com/stuttgart-things/deploy-configure-rke
-[deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
 [sthingsBase]: https://github.com/stuttgart-things/sthingsBase
 [sthingsBase-releases]: https://github.com/stuttgart-things/sthingsBase/tags
 [sthingsCli]: https://github.com/stuttgart-things/sthingsCli
@@ -49,7 +47,10 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 [stageTime-server-releases]: https://github.com/stuttgart-things/stageTime-server/releases
 [stageTime-creator]: https://github.com/stuttgart-things/stageTime-creator
 [stageTime-creator-releases]: https://github.com/stuttgart-things/stageTime-creator/releases
-
+[deploy-configure-rke]: https://github.com/stuttgart-things/deploy-configure-rke
+[deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
+[manage-filesystem]: https://github.com/stuttgart-things/manage-filesystem
+[manage-filesystem-releases]: https://github.com/stuttgart-things/manage-filesystem/tags
 <!--
 
 **Here are some ideas to get you started:**
