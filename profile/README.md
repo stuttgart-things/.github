@@ -12,6 +12,12 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 
 ### Active Development
 
+#### /ROOT-REPOSITORY
+
+|                     Name | Description                                                                                      |                                                
+| -----------------------: | :----------------------------------------------------------------------------------------------- | 
+| **[stuttgart-things][stuttgart-things]** | holds configuration files for e.g. flux/argocd; packer, ansible or Dockerfiles  | 
+
 #### /GOLANG-PROJECTS
 
 |                     Name | Description                                                                                      | Releases                                               |
@@ -35,6 +41,7 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 | **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1/2 on linux based systems | **[deploy-configure-rke-releases]** |
 | **[manage-filesystem][manage-filesystem]** | manage LVM and resize Linux FS - handle repartitioning with filesystem resizing support | **[manage-filesystem-releases]** |
 
+[stuttgart-things]: https://github.com/stuttgart-things/stuttgart-things
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
