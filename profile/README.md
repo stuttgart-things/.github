@@ -14,9 +14,10 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 
 #### /ROOT-REPOSITORY
 
-|                     Name | Description                                                                                      |                                                
-| -----------------------: | :----------------------------------------------------------------------------------------------- | 
-| **[stuttgart-things][stuttgart-things]** | holds configuration files for e.g. flux/argocd; packer, ansible or Dockerfiles  | 
+|                     Name | Description                                                                                      |  Releases  |                                     
+| -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **[stuttgart-things][stuttgart-things]** | holds configuration files for e.g. flux/argocd; packer, helm charts ansible or Dockerfiles  |  | 
+| **[tekton-base][tekton-base]** | helm chart for deploying tekton pipelines  | **[tekton-base]** | 
 
 #### /GOLANG-PROJECTS
 
@@ -42,6 +43,9 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 | **[manage-filesystem][manage-filesystem]** | manage LVM and resize Linux FS - handle repartitioning with filesystem resizing support | **[manage-filesystem-releases]** |
 
 [stuttgart-things]: https://github.com/stuttgart-things/stuttgart-things
+[tekton-base]: https://github.com/stuttgart-things/stuttgart-things/tree/tekton-base-v0.50.14/charts/tekton-base
+[tekton-base-release]: https://github.com/stuttgart-things/stuttgart-things/releases/tag/tekton-base-v0.50.14
+
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
