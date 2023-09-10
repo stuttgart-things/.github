@@ -16,7 +16,7 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 
 |                     Name | Description                                                                                      |  Releases  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[stuttgart-things][stuttgart-things]** | holds configuration files for e.g. flux/argocd; packer, helm charts ansible or Dockerfiles  |  | 
+| **[stuttgart-things][stuttgart-things]** | holds configuration files for e.g. flux/argocd; packer, helm, ansible or Dockerfiles  |  | 
 | **[tekton-base][tekton-base]** | helm chart for deploying tekton pipelines  | **[tekton-base]** | 
 
 #### /GOLANG-PROJECTS
