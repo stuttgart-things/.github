@@ -16,7 +16,7 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 
 |                     Name | Description                                                                                      |  Releases  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[stuttgart-things][stuttgart-things]** | holds configuration files for e.g. flux/argocd; packer, helm, ansible or Dockerfiles  |  | 
+| **[stuttgart-things][stuttgart-things]** | flux/argocd applications; packer configuration, helm charts, ansible code or Dockerfiles  | **[stuttgart-things-releases]**  | 
 | **[tekton-base][tekton-base]** | helm chart for deploying tekton pipelines  | **[tekton-base-release]** | 
 
 #### /GOLANG-PROJECTS
@@ -43,6 +43,7 @@ just a group of engineers sharing their projects codes, configuration & tools (i
 | **[manage-filesystem][manage-filesystem]** | manage LVM and resize Linux FS - handle repartitioning with filesystem resizing support | **[manage-filesystem-releases]** |
 
 [stuttgart-things]: https://github.com/stuttgart-things/stuttgart-things
+[stuttgart-things-releases]: https://github.com/stuttgart-things/stuttgart-things/releases
 [tekton-base]: https://github.com/stuttgart-things/stuttgart-things/tree/tekton-base-v0.50.14/charts/tekton-base
 [tekton-base-release]: https://github.com/stuttgart-things/stuttgart-things/releases/tag/tekton-base-v0.50.14
 
