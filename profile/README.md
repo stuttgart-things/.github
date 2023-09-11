@@ -16,7 +16,7 @@ microservice development, configuration/infrastructure as code & clis w/ surveys
 
 |                     Name | Description                                                                                      |  Releases  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[stuttgart-things][stuttgart-things]** | flux/argocd applications; packer configuration, helm charts, ansible code or Dockerfiles  | **[stuttgart-things-releases]**  | 
+| **[stuttgart-things][stuttgart-things]** | flux2/argo-cd applications; packer configuration, helm charts, ansible code or Dockerfiles  | **[stuttgart-things-releases]**  | 
 | **[tekton-base][tekton-base]** | helm chart for deploying tekton pipelines  | **[tekton-base-release]** | 
 
 #### /GOLANG-PROJECTS
