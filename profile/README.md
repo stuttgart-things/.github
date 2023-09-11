@@ -8,7 +8,7 @@
 </div>
 
 ## stuttgart-things 🍿
-just a group of engineers sharing their projects codes, configuration & tools (including odds and ends)
+microservice development, configuration as code & clis
 
 ### Active Development
 
