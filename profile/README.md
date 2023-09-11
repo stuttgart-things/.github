@@ -8,7 +8,7 @@
 </div>
 
 ## stuttgart-things 🍿
-microservice development, configuration/infrastructure as code & clis w/ surveys.
+microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
 ### Active Development
 
