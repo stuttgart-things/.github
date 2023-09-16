@@ -18,7 +18,8 @@ microservice development, configuration/infrastructure as code & creation of cli
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[stuttgart-things][stuttgart-things]** | flux2/argo-cd applications; packer configuration, helm charts, ansible code or Dockerfiles  | **[stuttgart-things-releases]**  | 
 | **[tekton-base][tekton-base]** | helm chart for deploying tekton pipelines  | **[tekton-base-release]** | 
-| **[flux-infra][flux-infra]** | kubernetes infrastructure services/applications for flux2  | | 
+| **[flux-infra][flux-infra]** | kubernetes infrastructure service/applications deployment configuration for flux2  | | 
+| **[flux-apps][flux-apps]** | kubernetes service/application deployments configuration for flux2  | | 
 
 #### /GOLANG-PROJECTS
 
@@ -48,6 +49,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 [tekton-base]: https://github.com/stuttgart-things/stuttgart-things/tree/tekton-base-v0.50.14/charts/tekton-base
 [tekton-base-release]: https://github.com/stuttgart-things/stuttgart-things/releases/tag/tekton-base-v0.50.14
 [flux-infra]: https://github.com/stuttgart-things/stuttgart-things/tree/main/infra
+[flux-apps]: https://github.com/stuttgart-things/stuttgart-things/tree/main/apps
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
