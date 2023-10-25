@@ -10,6 +10,9 @@
 ## stuttgart-things 🍿
 microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
+### PAGES
+**[docs-pages]**
+
 ### Active Development
 
 #### /ROOT-REPOSITORY
@@ -67,6 +70,11 @@ microservice development, configuration/infrastructure as code & creation of cli
 [deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
 [manage-filesystem]: https://github.com/stuttgart-things/manage-filesystem
 [manage-filesystem-releases]: https://github.com/stuttgart-things/manage-filesystem/tags
+
+[docs-pages]: https://stuttgart-things.github.io/docs/
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
