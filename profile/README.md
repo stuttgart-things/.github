@@ -11,7 +11,7 @@
 microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
 ### PAGES
-**[docs-pages]**
+**[docs]**
 
 ### Active Development
 
@@ -71,7 +71,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 [manage-filesystem]: https://github.com/stuttgart-things/manage-filesystem
 [manage-filesystem-releases]: https://github.com/stuttgart-things/manage-filesystem/tags
 
-[docs-pages]: https://stuttgart-things.github.io/docs/
+[docs]: https://stuttgart-things.github.io/docs/
 
 
 
