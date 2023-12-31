@@ -10,9 +10,9 @@
 ## stuttgart-things 🍿
 microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
-### /Pages
+### /PAGES
 
-|                     Name | Description                                                                                      |  Releases  |                                     
+|                     Name | Description                                                                                      |  URL  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[docs][docs]** | documentation in code snippets | **[DOCS]** | 
 
