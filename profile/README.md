@@ -14,7 +14,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 |                     Name | Description                                                                                      |  URL  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[docs][docs]** | documentation in code snippets | **[DOCS]** | 
+| **[docs-repo][docs-repo]** | documentation in code snippets | **[DOCS]** | 
 
 ### Active Development
 
@@ -85,7 +85,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 [manage-filesystem-releases]: https://github.com/stuttgart-things/manage-filesystem/tags
 
 [DOCS]: https://stuttgart-things.github.io/docs/
-[docs]: https://github.com/stuttgart-things/docs
+[docs-repo]: https://github.com/stuttgart-things/docs
 
 
 <!--
