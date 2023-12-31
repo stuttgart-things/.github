@@ -15,6 +15,13 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 ### Active Development
 
+#### /TERRAFORM MODULES
+
+|                     Name | Description                                                                                      |  Releases  |                                     
+| -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **[vault-base-setup][vault-base-setup]** | terraform module for base-setup configuration of hashicorp vault | - | 
+| **[s3-minio-config][s3-minio-config]** | terraform module for base-setup configuration of minio s3 | - | 
+
 #### /ROOT-REPOSITORY
 
 |                     Name | Description                                                                                      |  Releases  |                                     
@@ -55,6 +62,8 @@ microservice development, configuration/infrastructure as code & creation of cli
 [flux-apps]: https://github.com/stuttgart-things/stuttgart-things/tree/main/apps
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
+[vault-base-setup]: https://github.com/stuttgart-things/vault-base-setup
+
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
 [machineShop-operator-releases]: https://console.cloud.google.com/gcr/images/stuttgart-things/eu/machine-shop-operator
