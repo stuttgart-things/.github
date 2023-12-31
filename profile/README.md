@@ -63,6 +63,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [vault-base-setup]: https://github.com/stuttgart-things/vault-base-setup
+[s3-minio-config]: https://github.com/stuttgart-things/s3-minio-config
 
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
