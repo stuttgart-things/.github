@@ -22,11 +22,11 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 |                     Name | Description                                                                                      |  Releases  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[vault-base-setup][vault-base-setup]** | terraform module for base-setup configuration of hashicorp vault | - | 
-| **[s3-minio-config][s3-minio-config]** | terraform module for base-setup configuration of minio s3 | - | 
-| **[flux2-cluster-bootstrap][flux2-cluster-bootstrap]** | terraform module for bootstrapping kubernetes clusters w/ flux2 Resources | - | 
-| **[vsphere-vm][vsphere-vm]** | terraform module for building vsphere vms (based on an existing vcenter templates)| - | 
-| **[proxmox-vm][proxmox-vm]** | terraform module to build a proxmox vm from an existing (prepared) template | - | 
+| **[vault-base-setup][vault-base-setup]** | base setup configuration of hashicorp vault | - | 
+| **[s3-minio-config][s3-minio-config]** | base setup configuration of minio s3 | - | 
+| **[flux2-cluster-bootstrap][flux2-cluster-bootstrap]** | bootstrapping kubernetes clusters w/ flux2 | - | 
+| **[vsphere-vm][vsphere-vm]** | building vsphere vms (based on an existing vcenter templates)| - | 
+| **[proxmox-vm][proxmox-vm]** | building proxmox vms from existing templates | - | 
 
 #### /ROOT-REPOSITORY
 
