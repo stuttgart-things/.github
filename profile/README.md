@@ -24,6 +24,9 @@ microservice development, configuration/infrastructure as code & creation of cli
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[vault-base-setup][vault-base-setup]** | terraform module for base-setup configuration of hashicorp vault | - | 
 | **[s3-minio-config][s3-minio-config]** | terraform module for base-setup configuration of minio s3 | - | 
+| **[flux2-cluster-bootstrap][flux2-cluster-bootstrap]** | terraform module for bootstrapping kubernetes clusters w/ flux2 Resources | - | 
+| **[vsphere-vm][vsphere-vm]** | terraform module for building vsphere vms (based on an existing vcenter templates)| - | 
+| **[proxmox-vm][proxmox-vm]** | terraform module to build a proxmox vm from an existing (prepared) template | - | 
 
 #### /ROOT-REPOSITORY
 
@@ -64,9 +67,13 @@ microservice development, configuration/infrastructure as code & creation of cli
 [flux-infra]: https://github.com/stuttgart-things/stuttgart-things/tree/main/infra
 [flux-apps]: https://github.com/stuttgart-things/stuttgart-things/tree/main/apps
 
+# TERRAFORM
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [vault-base-setup]: https://github.com/stuttgart-things/vault-base-setup
 [s3-minio-config]: https://github.com/stuttgart-things/s3-minio-config
+[flux2-cluster-bootstrap]: https://github.com/stuttgart-things/flux2-cluster-bootstrap
+[proxmox-vm]: https://github.com/stuttgart-things/proxmox-vm
+[vsphere-vm]: https://github.com/stuttgart-things/vsphere-vm
 
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
