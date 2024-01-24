@@ -7,18 +7,18 @@
   </p>
 </div>
 
-## stuttgart-things 🍿
+# stuttgart-things 🍿
 microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
-### /PAGES
+# /PAGES
 
 |                     Name | Description                                                                                      |  URL  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[docs-repo][docs-repo]** | documentation in code snippets | **[DOCS]** | 
 
-### Active Development
+# Active Development
 
-#### /TERRAFORM MODULES
+## /TERRAFORM MODULES
 
 |                     Name | Description                                                                                      |  Releases  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
@@ -28,7 +28,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 | **[vsphere-vm][vsphere-vm]** | building vsphere vms (based on an existing vcenter templates)| **[vsphere-vm-releases]** | 
 | **[proxmox-vm][proxmox-vm]** | building proxmox vms from existing templates | **[proxmox-vm-releases]** | 
 
-#### /ROOT-REPOSITORY
+## /ROOT-REPOSITORY
 
 |                     Name | Description                                                                                      |  Releases  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
@@ -37,7 +37,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 | **[flux-infra][flux-infra]** | kubernetes infrastructure service/applications deployment configuration for flux2  | | 
 | **[flux-apps][flux-apps]** | kubernetes service/application deployments configuration for flux2  | | 
 
-#### /GOLANG-PROJECTS
+## /GOLANG-PROJECTS
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
@@ -46,14 +46,14 @@ microservice development, configuration/infrastructure as code & creation of cli
 | **[stageTime-server][stageTime-server]** | gRPC Server for validating & producing revisionRuns (a collection of tekton pipelineRuns/stages) | **[stageTime-server-releases]** |
 | **[stageTime-creator][stageTime-creator]** | dynamic rendering and creation of k8s manifests/resources polled from redis streams/json| **[stageTime-creator-releases]** |
 
-#### /GOLANG-MODULES
+## /GOLANG-MODULES
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[sthingsBase][sthingsBase]** | module providing basic golang functions | **[sthingsBase-releases]** |
 | **[sthingsCli][sthingsCli]** | module providing golang functions/building blocks for the use in command line interfaces | **[sthingsCli-releases]** |
 
-#### /ANSIBLE
+## /ANSIBLE
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
@@ -67,7 +67,6 @@ microservice development, configuration/infrastructure as code & creation of cli
 [flux-infra]: https://github.com/stuttgart-things/stuttgart-things/tree/main/infra
 [flux-apps]: https://github.com/stuttgart-things/stuttgart-things/tree/main/apps
 
-# TERRAFORM
 [vault-base-setup]: https://github.com/stuttgart-things/vault-base-setup
 [vault-base-setup-releases]: https://github.com/stuttgart-things/vault-base-setup/releases
 [s3-minio-config]: https://github.com/stuttgart-things/s3-minio-config
@@ -85,8 +84,6 @@ microservice development, configuration/infrastructure as code & creation of cli
 [proxmox-vm]: https://github.com/stuttgart-things/proxmox-vm
 [vsphere-vm]: https://github.com/stuttgart-things/vsphere-vm
 
-
-# GOLANG
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
