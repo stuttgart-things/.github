@@ -22,11 +22,11 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 |                     Name | Description                                                                                      |  Releases  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **[vault-base-setup][vault-base-setup]** | base setup configuration of hashicorp vault | - | 
-| **[s3-minio-config][s3-minio-config]** | base setup configuration of minio s3 | - | 
-| **[flux2-cluster-bootstrap][flux2-cluster-bootstrap]** | bootstrapping kubernetes clusters w/ flux2 | - | 
-| **[vsphere-vm][vsphere-vm]** | building vsphere vms (based on an existing vcenter templates)| - | 
-| **[proxmox-vm][proxmox-vm]** | building proxmox vms from existing templates | - | 
+| **[vault-base-setup][vault-base-setup]** | base setup configuration of hashicorp vault | **[vault-base-setup-releases]**  | 
+| **[s3-minio-config][s3-minio-config]** | base setup configuration of minio s3 | **[s3-minio-config-releases]** | 
+| **[flux2-cluster-bootstrap][flux2-cluster-bootstrap]** | bootstrapping kubernetes clusters w/ flux2 | **[flux2-cluster-bootstrap-releases]**  | 
+| **[vsphere-vm][vsphere-vm]** | building vsphere vms (based on an existing vcenter templates)| **[vsphere-vm-releases]** | 
+| **[proxmox-vm][proxmox-vm]** | building proxmox vms from existing templates | **[proxmox-vm-releases]** | 
 
 #### /ROOT-REPOSITORY
 
@@ -68,13 +68,26 @@ microservice development, configuration/infrastructure as code & creation of cli
 [flux-apps]: https://github.com/stuttgart-things/stuttgart-things/tree/main/apps
 
 # TERRAFORM
-[machineShop]: https://github.com/stuttgart-things/machineShop
 [vault-base-setup]: https://github.com/stuttgart-things/vault-base-setup
+[vault-base-setup-releases]: https://github.com/stuttgart-things/vault-base-setup/releases
+[s3-minio-config]: https://github.com/stuttgart-things/s3-minio-config
+[s3-minio-config-releases]: https://github.com/stuttgart-things/s3-minio-config/releases
+[flux2-cluster-bootstrap]: https://github.com/stuttgart-things/flux2-cluster-bootstrap
+[flux2-cluster-bootstrap-releases]: https://github.com/stuttgart-things/flux2-cluster-bootstrap/releases
+[vsphere-vm]: https://github.com/stuttgart-things/vsphere-vm
+[vsphere-vm-releases]: https://github.com/stuttgart-things/vsphere-vm/releases
+[proxmox-vm]: https://github.com/stuttgart-things/proxmox-vm
+[proxmox-vm-releases]: https://github.com/stuttgart-things/proxmox-vm/releases
+
+
 [s3-minio-config]: https://github.com/stuttgart-things/s3-minio-config
 [flux2-cluster-bootstrap]: https://github.com/stuttgart-things/flux2-cluster-bootstrap
 [proxmox-vm]: https://github.com/stuttgart-things/proxmox-vm
 [vsphere-vm]: https://github.com/stuttgart-things/vsphere-vm
 
+
+# GOLANG
+[machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
 [machineShop-releases]: https://github.com/stuttgart-things/machineShop/releases
 [machineShop-operator-releases]: https://console.cloud.google.com/gcr/images/stuttgart-things/eu/machine-shop-operator
