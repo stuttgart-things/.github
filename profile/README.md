@@ -27,6 +27,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 | **[flux2-cluster-bootstrap][flux2-cluster-bootstrap]** | bootstrapping kubernetes clusters w/ flux2 | **[flux2-cluster-bootstrap-releases]**  | 
 | **[vsphere-vm][vsphere-vm]** | building vsphere vms (based on an existing vcenter templates)| **[vsphere-vm-releases]** | 
 | **[proxmox-vm][proxmox-vm]** | building proxmox vms from existing templates | **[proxmox-vm-releases]** | 
+| **[aws-ec2-vm][aws-ec2-vm]** | terraform module for creating ec2 vm instances | **[aws-ec2-vm]** | 
 
 ## /ROOT-REPOSITORY
 
@@ -78,11 +79,11 @@ microservice development, configuration/infrastructure as code & creation of cli
 [proxmox-vm]: https://github.com/stuttgart-things/proxmox-vm
 [proxmox-vm-releases]: https://github.com/stuttgart-things/proxmox-vm/releases
 
-
 [s3-minio-config]: https://github.com/stuttgart-things/s3-minio-config
 [flux2-cluster-bootstrap]: https://github.com/stuttgart-things/flux2-cluster-bootstrap
 [proxmox-vm]: https://github.com/stuttgart-things/proxmox-vm
 [vsphere-vm]: https://github.com/stuttgart-things/vsphere-vm
+[aws-ec2-vm]: https://github.com/stuttgart-things/aws-ec2-vm
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
