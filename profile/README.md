@@ -58,6 +58,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **[download-install-binary][download-install-binary]** | download and install binary files | **[download-install-binary-releases]** |
 | **[deploy-configure-rke][deploy-configure-rke]** | deploy rancher kubernetes engine + configuration in version 1/2 on linux based systems | **[deploy-configure-rke-releases]** |
 | **[manage-filesystem][manage-filesystem]** | manage LVM and resize Linux FS - handle repartitioning with filesystem resizing support | **[manage-filesystem-releases]** |
 
@@ -99,12 +100,13 @@ microservice development, configuration/infrastructure as code & creation of cli
 [stageTime-creator-releases]: https://github.com/stuttgart-things/stageTime-creator/releases
 [deploy-configure-rke]: https://github.com/stuttgart-things/deploy-configure-rke
 [deploy-configure-rke-releases]: https://github.com/stuttgart-things/deploy-configure-rke/tags
+[download-install-binary]: https://github.com/stuttgart-things/download-install-binary
+[download-install-binary-releases]: https://github.com/stuttgart-things/download-install-binary/tags
 [manage-filesystem]: https://github.com/stuttgart-things/manage-filesystem
 [manage-filesystem-releases]: https://github.com/stuttgart-things/manage-filesystem/tags
 
 [DOCS]: https://stuttgart-things.github.io/docs/
 [docs-repo]: https://github.com/stuttgart-things/docs
-
 
 <!--
 
