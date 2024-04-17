@@ -18,6 +18,13 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 # Active Development
 
+## /ANSIBLE COLLECTIONS
+
+|                     Name | Description                                                                                      | Releases                                               |
+| -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **[sthings.base_os][sthings.base_os]** | |  | 
+
+
 ## /TERRAFORM MODULES
 
 |                     Name | Description                                                                                      |  Releases  |                                     
@@ -54,7 +61,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 | **[sthingsBase][sthingsBase]** | module providing basic golang functions | **[sthingsBase-releases]** |
 | **[sthingsCli][sthingsCli]** | module providing golang functions/building blocks for the use in command line interfaces | **[sthingsCli-releases]** |
 
-## /ANSIBLE
+## /ANSIBLE ROLES
 
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
