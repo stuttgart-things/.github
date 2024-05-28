@@ -10,6 +10,8 @@
 # stuttgart-things 🍿
 microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # PAGES :earth_africa:
 
 |                     Name | Description                                                                                      |  URL  |                                     
