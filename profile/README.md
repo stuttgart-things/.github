@@ -122,8 +122,6 @@ microservice development, configuration/infrastructure as code & creation of cli
   </p>
 </div>
 
-
-
 <!--
 
 **Here are some ideas to get you started:**
