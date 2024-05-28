@@ -10,14 +10,14 @@
 # stuttgart-things 🍿
 microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
-# PAGES
+# PAGES :earth_africa:
 
 |                     Name | Description                                                                                      |  URL  |                                     
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | [docs-repo](https://github.com/stuttgart-things/docs)  | documentation in code snippets | [![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)]([https://github.com/harish-sethuraman/readme-components]([https://stuttgart-things.github.io/stuttgart-things/](https://stuttgart-things.github.io/docs/)))  | 
 | [stuttgart-things-repo](https://github.com/stuttgart-things/stuttgart-things) | used for configuration code like gitops configuration, ansible playbooks, Dockerfiles or helm charts | [![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)]([https://github.com/harish-sethuraman/readme-components](https://stuttgart-things.github.io/stuttgart-things/)) | 
 
-# Active Development
+# Active Development :computer:
 
 ## /ANSIBLE COLLECTIONS
 
