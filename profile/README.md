@@ -118,7 +118,7 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 <div align="center">
   <p>
-    <img src="sthings-city.png" alt="sthings" width="450" />
+    <img src="sthings-cinema.png" alt="sthings" width="450" />
   </p>
 </div>
 
