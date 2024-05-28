@@ -116,6 +116,14 @@ microservice development, configuration/infrastructure as code & creation of cli
 [DOCS]: https://stuttgart-things.github.io/docs/
 [docs-repo]: https://github.com/stuttgart-things/docs
 
+<div align="center">
+  <p>
+    <img src="sthings-city.png" alt="sthings" width="450" />
+  </p>
+</div>
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
