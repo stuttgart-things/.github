@@ -10,7 +10,6 @@
 # stuttgart-things 🍿
 microservice development, configuration/infrastructure as code & creation of clis based on surveys.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
