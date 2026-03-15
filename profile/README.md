@@ -55,6 +55,18 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 ## /GOLANG-PROJECTS
 
+### homerun2
+
+|                     Name | Description                                                                                      | Releases                                               |
+| -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **[homerun2-omni-pitcher][homerun2-omni-pitcher]** | HTTP microservice accepting JSON messages via POST /pitch and enqueuing them into Redis Streams | **[homerun2-omni-pitcher-releases]** |
+| **[homerun2-core-catcher][homerun2-core-catcher]** | Go CLI microservice consuming messages from Redis Streams using consumer groups | **[homerun2-core-catcher-releases]** |
+| **[homerun2-k8s-pitcher][homerun2-k8s-pitcher]** | Watches a Kubernetes cluster via dynamic informers and pitches real-time events to Redis Streams | **[homerun2-k8s-pitcher-releases]** |
+| **[homerun2-scout][homerun2-scout]** | Periodically analyzes RediSearch-indexed messages and exposes aggregated analytics via REST API | **[homerun2-scout-releases]** |
+| **[homerun2-light-catcher][homerun2-light-catcher]** | Event-driven WLED light controller consuming Redis Stream messages and triggering LED effects | **[homerun2-light-catcher-releases]** |
+
+### other
+
 |                     Name | Description                                                                                      | Releases                                               |
 | -----------------------: | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **[machineShop][machineShop]** | git based CLI interface for managing configuration as code | **[machineShop-releases]** |
@@ -97,6 +109,17 @@ microservice development, configuration/infrastructure as code & creation of cli
 
 [aws-ec2-vm]: https://github.com/stuttgart-things/aws-ec2-vm
 [aws-ec2-vm-releases]: https://github.com/stuttgart-things/aws-ec2-vm/releases
+
+[homerun2-omni-pitcher]: https://github.com/stuttgart-things/homerun2-omni-pitcher
+[homerun2-omni-pitcher-releases]: https://github.com/stuttgart-things/homerun2-omni-pitcher/releases
+[homerun2-core-catcher]: https://github.com/stuttgart-things/homerun2-core-catcher
+[homerun2-core-catcher-releases]: https://github.com/stuttgart-things/homerun2-core-catcher/releases
+[homerun2-k8s-pitcher]: https://github.com/stuttgart-things/homerun2-k8s-pitcher
+[homerun2-k8s-pitcher-releases]: https://github.com/stuttgart-things/homerun2-k8s-pitcher/releases
+[homerun2-scout]: https://github.com/stuttgart-things/homerun2-scout
+[homerun2-scout-releases]: https://github.com/stuttgart-things/homerun2-scout/releases
+[homerun2-light-catcher]: https://github.com/stuttgart-things/homerun2-light-catcher
+[homerun2-light-catcher-releases]: https://github.com/stuttgart-things/homerun2-light-catcher/releases
 
 [machineShop]: https://github.com/stuttgart-things/machineShop
 [machineShop-operator]: https://github.com/stuttgart-things/machineShop-operator
